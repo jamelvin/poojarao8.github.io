@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a Visiting Postdoc in the Department of Mathematics at Stony Brook University, where I am developing spectral numerical models using eigenbasis of curl operator, to study incompressible flows in turbulent conditions. These methods will be used to study the potential blow up of Navier-Stokes equations in low viscosity regime. My mentor is Dr. Dennis Sullivan.
+I am currently working as a [Visiting Postdoc] (http://www.math.stonybrook.edu/cards/raopooja.html) in the Department of Mathematics at Stony Brook University, where I am developing spectral numerical models using eigenbasis of curl operator, to study incompressible flows in turbulent conditions. These methods will be used to study the potential blow up of Navier-Stokes equations in low viscosity regime. My mentor is [Dr. Dennis Sullivan] (http://www.math.stonybrook.edu/~dennis/).
 
 Prior to my current position, I was a postdoctoral researcher in the Department of Aerospace Engineering at University of Illinois at Urbana-Champaign.
 
