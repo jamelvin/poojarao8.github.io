@@ -6,6 +6,5 @@ permalink: /publication/02_2013
 #date: 2019-06-04
 #venue: 'Test Journal 1'
 ---
-Test about number 1. The number 2 is left for future work.
 
 
