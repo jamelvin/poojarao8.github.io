@@ -1,11 +1,9 @@
 ---
-title: "Turbulent mixing in Richtmyer-Meshkov instability in an ICF like geometry"
+title: "Turbulent Transport Coefficients in Richtmyer-Meshkov Instability using FT/LES/SGS"
 collection: talks
 type: "Talk"
-permalink: /talks/01_2014_ipam
-venue: "Institute of Pure and Applied Math, UCLA"
-date: Oct 2014
-location: "Los Angeles, California"
+permalink: /talks/03_2015_vanderbilt
+venue: "Shanks Workshop on Mathematics of Fluid Dynamics, Vanderbilt University"
+date: Feb 2015
+location: "Nashville, TN"
 ---
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
