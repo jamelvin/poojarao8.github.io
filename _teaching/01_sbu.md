@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate Seminar Course"
 permalink: /teaching/01_sbu
 venue: "Teaching graduate seminar course, MAT696: Computational tools and techniques for STEM."
-date: Spring 2019
 location: "Math Dept., Stony Brook University"
 ---
 
